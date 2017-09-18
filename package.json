@@ -1,0 +1,16 @@
+{
+  "name": "test_flask",
+  "version": "1.0.0",
+  "description": "Test backend flask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Cortes",
+  "license": "ISC",
+  "dependencies": {
+    "angular-ui-router": "^1.0.3",
+    "angularjs": "0.0.1",
+    "http-server": "^0.10.0"
+  }
+}
